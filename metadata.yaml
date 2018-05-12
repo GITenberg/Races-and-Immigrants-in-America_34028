@@ -1,0 +1,31 @@
+_repo: Races-and-Immigrants-in-America_34028
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Commons, John R. (John Rogers)
+    alias: Commons, John Rogers
+    birthdate: 1862
+    deathdate: 1945
+    gutenberg_agent_id: '36688'
+    url: http://www.gutenberg.org/2009/agents/36688
+    wikipedia: http://en.wikipedia.org/wiki/John_R._Commons
+description: ''
+gutenberg_issued: '2010-10-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34028'
+  lccn: 07017894
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social conditions -- 1865-1918'
+- !lcsh 'United States -- Emigration and immigration'
+- !lcc 'JV'
+- !lcsh 'United States -- Race relations'
+title: Races and Immigrants in America
+url: http://www.gutenberg.org/ebooks/34028
