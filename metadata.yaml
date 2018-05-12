@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36688
     wikipedia: http://en.wikipedia.org/wiki/John_R._Commons
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34028#Races-and-Immigrants-in-America
 gutenberg_issued: '2010-10-04'
 gutenberg_type: Text
 identifiers:
